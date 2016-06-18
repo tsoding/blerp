@@ -1,0 +1,9 @@
+[package]
+name = "blerp"
+version = "0.1.0"
+authors = ["rexim <reximkut@gmail.com>"]
+
+[dependencies]
+glium = "*"
+glium_sdl2 = "*"
+sdl2 = "*"
